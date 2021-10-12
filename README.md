@@ -17,6 +17,7 @@ Smart traffic light permet de résoudre ce problème en arbitrant l'allumage des
 	1. Un microcontrolleur STM32F401VE 
 	2. 3 feux de signalisations 
 	3. 8 Boutons Poussoir pour les quatres files qui affluent vers le carrefour. Nous aurons donc à l'entrée et à la sortie de chaque file un bouton poussoir.
+	4. 1 écran LCD 16x2 (16 colonnes et 2 lignes)
 
 
 2. Outils logiciels:
